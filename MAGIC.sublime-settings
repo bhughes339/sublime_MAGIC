@@ -1,0 +1,13 @@
+{
+	"auto_complete": false,
+	"draw_indent_guides": false,
+	"extensions":
+	[
+		"txt"
+	],
+	"fold_buttons": false,
+	"indent_to_bracket": true,
+	"tab_size": 1,
+	"detect_indentation": false,
+	"translate_tabs_to_spaces": true
+}
